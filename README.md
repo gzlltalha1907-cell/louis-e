@@ -3,8 +3,7 @@
 
 <h4>Updates</h4>
 
-- ⚙️ I’m currently working on **implementing elevation data into [Arnis](https://github.com/louis-e/arnis)!**
-
+- ⚙️ I’m currently working on **implementing elevation data into [Arnis](https://github.com/louis-e/arn
 <h4>Open Source Projects</h4>
 
 - 🏙️ Minecraft Real Life City Generator Algorithm **[Arnis](https://github.com/louis-e/arnis)**
